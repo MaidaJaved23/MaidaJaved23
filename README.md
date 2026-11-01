@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Maida Javed, Computer Science student" width="100%">
+<img src="banner.svg" alt="Maida Javed, Computer Science student" width="100%">
 
 <p>
   <a href="https://github.com/MaidaJaved23"><img src="https://img.shields.io/badge/GitHub-MaidaJaved23-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
@@ -10,25 +10,25 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-about.svg" alt="About Me" width="100%">
+<img src="section-about.svg" alt="About Me" width="100%">
 
 I’m **Maida Javed**, a Computer Science student at the **Virtual University of Pakistan**, building practical skills through software and web development projects. My work so far includes a full-stack food donation workflow system and a Python-based book-sharing platform.
 
 I’m interested in full-stack development, database design, responsive interfaces, and computer networking. I also have hands-on academic exposure to networking and security tools, including Cisco Packet Tracer and Wireshark.
 
-<img src="assets/highlights.svg" alt="Profile highlights" width="100%">
+<img src="highlights.svg" alt="Profile highlights" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-timeline.svg" alt="Career Timeline" width="100%">
+<img src="section-timeline.svg" alt="Career Timeline" width="100%">
 
-<img src="assets/timeline.svg" alt="Academic timeline" width="100%">
+<img src="timeline.svg" alt="Academic timeline" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-projects.svg" alt="Projects" width="100%">
+<img src="section-projects.svg" alt="Projects" width="100%">
 
 ### Food Waste Reduction System
 
@@ -48,9 +48,9 @@ I’m interested in full-stack development, database design, responsive interfac
 - Created a responsive, mobile-friendly interface.
 - Developed inventory features for listing, tracking, and managing book collections.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-tech-stack.svg" alt="Tech Stack" width="100%">
+<img src="section-tech-stack.svg" alt="Tech Stack" width="100%">
 
 **Backend & Programming**
 
@@ -96,9 +96,9 @@ I’m interested in full-stack development, database design, responsive interfac
 
 Additional tools: Dev-C++, Visual Studio, MySQL Workbench, VMware, Kali Linux, Microsoft Office Suite.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-competencies.svg" alt="Core Competencies" width="100%">
+<img src="section-competencies.svg" alt="Core Competencies" width="100%">
 
 | Area | Competencies |
 |---|---|
@@ -108,9 +108,9 @@ Additional tools: Dev-C++, Visual Studio, MySQL Workbench, VMware, Kali Linux, M
 | Networking & Security | Network configuration (L2/L3), cybersecurity fundamentals, Linux |
 | Problem Solving | Data structures and algorithms, analysis of algorithms |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-education.svg" alt="Education and Certifications" width="100%">
+<img src="section-education.svg" alt="Education and Certifications" width="100%">
 
 ### Education
 
@@ -131,9 +131,9 @@ Additional tools: Dev-C++, Visual Studio, MySQL Workbench, VMware, Kali Linux, M
 
 English · Urdu · Mandarin Chinese · Arabic
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-<img src="assets/section-connect.svg" alt="Let's Connect" width="100%">
+<img src="section-connect.svg" alt="Let's Connect" width="100%">
 
 - GitHub: [@MaidaJaved23](https://github.com/MaidaJaved23)
 
@@ -141,7 +141,7 @@ English · Urdu · Mandarin Chinese · Arabic
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 <sub>Designed with curiosity, code, and a steady supply of tea. ☕</sub>
 
