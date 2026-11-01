@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Animated banner for Maida Javed, Computer Science student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#101827"/><stop offset="55%" stop-color="#182447"/><stop offset="100%" stop-color="#0b2830"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3b82f6"/><stop offset="50%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#14b8a6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="42" r="150" fill="#8b5cf6" opacity=".10"><animate attributeName="r" values="135;160;135" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="290" r="120" fill="#14b8a6" opacity=".10"/>
+  <path d="M0 280 C260 235 360 350 650 275 S1000 220 1200 270" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 280 C260 235 360 350 650 275 S1000 220 1200 270;M0 260 C260 310 360 220 650 290 S1000 300 1200 245;M0 280 C260 235 360 350 650 275 S1000 220 1200 270"/>
+  </path>
+  <text x="58" y="112" fill="#9fb8ff" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" letter-spacing="4">COMPUTER SCIENCE STUDENT</text>
+  <text x="55" y="174" fill="#f7f9ff" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="52" font-weight="750">Maida Javed</text>
+  <text x="58" y="211" fill="#c8d4ed" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18">Building practical projects across software, web development &amp; networking</text>
+  <g font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="650">
+    <g><rect x="58" y="245" width="92" height="36" rx="18" fill="#1e3a5f" stroke="#3b82f6"/><text x="104" y="268" text-anchor="middle" fill="#dbeafe">Python</text></g>
+    <g><rect x="160" y="245" width="78" height="36" rx="18" fill="#312e5d" stroke="#8b5cf6"/><text x="199" y="268" text-anchor="middle" fill="#ede9fe">PHP</text></g>
+    <g><rect x="248" y="245" width="78" height="36" rx="18" fill="#164e63" stroke="#14b8a6"/><text x="287" y="268" text-anchor="middle" fill="#ccfbf1">C++</text></g>
+    <g><rect x="336" y="245" width="88" height="36" rx="18" fill="#1e3a5f" stroke="#3b82f6"/><text x="380" y="268" text-anchor="middle" fill="#dbeafe">Laravel</text></g>
+    <g><rect x="434" y="245" width="94" height="36" rx="18" fill="#312e5d" stroke="#8b5cf6"/><text x="481" y="268" text-anchor="middle" fill="#ede9fe">Django</text></g>
+    <g><rect x="538" y="245" width="86" height="36" rx="18" fill="#164e63" stroke="#14b8a6"/><text x="581" y="268" text-anchor="middle" fill="#ccfbf1">MySQL</text></g>
+    <g><rect x="634" y="245" width="110" height="36" rx="18" fill="#1e3a5f" stroke="#3b82f6"/><text x="689" y="268" text-anchor="middle" fill="#dbeafe">Bootstrap</text></g>
+  </g>
+</svg>
