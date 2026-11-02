@@ -14,9 +14,23 @@
 
 <img src="section-about.svg" alt="About Me" width="100%">
 
-I’m **Maida Javed**, a Computer Science student at the **Virtual University of Pakistan**, building practical skills through software and web development projects. My work so far includes a full-stack food donation workflow system and a Python-based book-sharing platform.
+I believe technology is at its best when it solves real problems, simplifies everyday experiences, and creates opportunities for people. That belief drives my passion for software development and building meaningful digital solutions.
 
-I’m interested in full-stack development, database design, responsive interfaces, and computer networking. I also have hands-on academic exposure to networking and security tools, including Cisco Packet Tracer and Wireshark.
+I am a **Computer Science Graduate (BSCS)** from the Virtual University of Pakistan, with practical project experience in full-stack web development, Python programming, database management, and responsive application development.
+
+My development journey includes building solutions such as:
+
+**Food Waste Reduction System:** Developed a full-stack web application using PHP, MySQL, JavaScript, Bootstrap, HTML, and CSS. Implemented CRUD operations, donation management workflows, interactive dashboards, normalized database structures, and role-based access control for donors and NGOs.
+
+**Online Book Sharing Platform:** Developed a Python-based web application using Python, Django/Flask, JavaScript, Bootstrap, HTML, and CSS. Incorporated peer-to-peer book exchange, location-based search, responsive interfaces, and book inventory management.
+
+Beyond software development, I continue exploring Artificial Intelligence, prompt engineering, Internet of Things (IoT), networking, and cybersecurity. My certifications from Cisco Networking Academy and Coursera reflect my commitment to continuous learning and staying connected with evolving technologies.
+
+**What I bring to a team:** A problem-solving mindset, curiosity, adaptability, attention to detail, and a genuine interest in turning ideas into practical applications. I value clean development practices, thoughtful database design, user-focused functionality, and collaborative learning.
+
+**My career goal** is to contribute to a forward-thinking technology team as a Software Developer or Full-Stack Web Developer, gain hands-on industry experience, work on real-world products, and continuously grow into an accomplished software engineer.
+
+I am always motivated by opportunities to learn, build, collaborate, and make technology work better for people.
 
 <img src="highlights.svg" alt="Profile highlights" width="100%">
 
@@ -57,8 +71,6 @@ I’m interested in full-stack development, database design, responsive interfac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
@@ -114,22 +126,30 @@ Additional tools: Dev-C++, Visual Studio, MySQL Workbench, VMware, Kali Linux, M
 
 ### Education
 
-- **Bachelor of Science in Computer Science** | Virtual University of Pakistan | Ongoing
+- **Bachelor of Science in Computer Science** | Virtual University of Pakistan | Completed
+  - CGPA: **3.01 / 4.00**
+  - Relevant coursework: Artificial Intelligence, Fundamentals of Algorithms, Data Warehousing, Linear Algebra, Statistics and Probability, Theory of Automata, Digital Logic Design, Cloud Computing.
+    
 - **Associate Degree in Computer Science** | Virtual University of Pakistan | Completed
   - CGPA: **3.16 / 4.00**
-  - Relevant coursework: Object-Oriented Programming, Data Structures and Algorithms, Computer Networks, Analysis of Algorithms, Artificial Intelligence, Visual Programming, Discrete Mathematics, and Information Security.
+  - Relevant coursework: Object-Oriented Programming, Data Structures and Algorithms, Computer Networks, Visual Programming, Discrete Mathematics, Software Engineering II, Web Design and Development, Relational Database Management Systems and Information Security.
 
 ### Certifications
 
-- Cybersecurity Essentials | Cisco Networking Academy (NetAcad)
-- Linux Unhatched & Linux Essentials | Cisco / NDG
-- Networking Essentials & Computer Networks | Cisco Networking Academy
-- Advanced Python Programming | AWEFRA
-- Professional Communication Skills | AWEFRA
+-	Digital Awareness |	Cisco Networking Academy 
+- Cyber Threat Management |	Cisco Networking Academy 
+-	Introduction to Cybersecurity	|	Cisco Networking Academy 
+-	Introduction to Modern AI	|	Cisco Networking Academy 
+-	Prompt Like an Engineer |	Cisco Networking Academy 
+-	Prompt Like an Engineer	|	Cisco Networking Academy 
+-	AI for Brainstorming and Planning	| Coursera
+-	AI Fundamentals |	Coursera
+-	IoT for Everyone | Coursera
+- Python | Coursera
 
 ### Languages
 
-English · Urdu · Mandarin Chinese · Arabic
+English (B2) · Urdu (Native)· Mandarin Chinese (HSK1 and HSK2) · Arabic (Basic)
 
 <img src="divider.svg" alt="" width="100%">
 
